@@ -8,7 +8,6 @@
 
 - **User Authentication & Profile Management** – Login feature and personal profiles  
 - **Goal Tracking & Workout Logging** – Set and monitor fitness goals  
-- **Workout Partner Matching** – Connect with others based on preferences and location  
 - **Intuitive User Interface** – Wireframes designed and tested with target users  
 
 ---
